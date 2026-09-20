@@ -11,11 +11,11 @@
 
 ## <img src="https://api.iconify.design/lucide:fingerprint.svg?color=%23A855F7" width="28" valign="middle" /> System Identity
 
-<img align="right" src="https://raw.githubusercontent.com/bianca-jpg/bianca-jpg/main/assets/howl-calcifer.gif.gif" width="140" alt="Howl and Calcifer" />
-
 > whoami
 
-<img src="https://api.iconify.design/lucide:code-2.svg?color=%23A855F7" width="18" valign="middle" /> <b>Role:</b> Data, AI & Automation Specialist
+<img align="right" src="https://raw.githubusercontent.com/bianca-jpg/bianca-jpg/main/assets/totoro.gif.gif" width="130" alt="Totoro" />
+
+<img src="https://api.iconify.design/lucide:code-2.svg?color=%23A855F7" width="18" valign="middle" /> <b>Role:</b> Data, AI & Automation Enthusiast
 
 <img src="https://api.iconify.design/lucide:battery-charging.svg?color=%23A855F7" width="18" valign="middle" /> <b>Status:</b> Data & AI Intern at Aramis Inc
 
@@ -29,6 +29,10 @@
 <br/>
 
 ## <img src="https://api.iconify.design/lucide:layers.svg?color=%23A855F7" width="28" valign="middle" /> Tech Stack & Arsenal
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bianca-jpg/bianca-jpg/main/assets/kodama.png.png" width="130" alt="Kodama Spirits" />
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -49,9 +53,7 @@
   <img src="https://img.shields.io/badge/Git_%26_Agile-C084FC?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bianca-jpg/bianca-jpg/main/assets/kodama.png.png" width="130" alt="Kodama Spirits" />
-</p>
+
 
 <br/>
 
@@ -73,7 +75,7 @@
 
 ## <img src="https://api.iconify.design/lucide:coffee.svg?color=%23A855F7" width="28" valign="middle" /> AFK (Away From Keyboard)
 
-<img align="right" src="https://raw.githubusercontent.com/bianca-jpg/bianca-jpg/main/assets/totoro.gif.gif" width="110" alt="Totoro" />
+<img align="right" src="https://raw.githubusercontent.com/bianca-jpg/bianca-jpg/main/assets/chihiro_gif.gif" width="160" alt="Chihiro" />
 
 <img src="https://api.iconify.design/lucide:music.svg?color=%23A855F7" width="18" valign="middle" /> Choir singing & playing the piano
 
