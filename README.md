@@ -29,10 +29,8 @@
 <br/>
 
 ## <img src="https://api.iconify.design/lucide:layers.svg?color=%23A855F7" width="28" valign="middle" /> Tech Stack & Arsenal
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bianca-jpg/bianca-jpg/main/assets/kodama.png.png" width="130" alt="Kodama Spirits" />
-</p>
 
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -53,7 +51,9 @@
   <img src="https://img.shields.io/badge/Git_%26_Agile-C084FC?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bianca-jpg/bianca-jpg/main/assets/kodama.png.png" width="130" alt="Kodama Spirits" />
+</p>
 
 <br/>
 
@@ -75,7 +75,7 @@
 
 ## <img src="https://api.iconify.design/lucide:coffee.svg?color=%23A855F7" width="28" valign="middle" /> AFK (Away From Keyboard)
 
-<img align="right" src="https://raw.githubusercontent.com/bianca-jpg/bianca-jpg/main/assets/chihiro_gif.gif" width="160" alt="Chihiro" />
+<img align="right" src="https://raw.githubusercontent.com/bianca-jpg/bianca-jpg/main/assets/chihiro_gif.gif" width="150" alt="Chihiro" />
 
 <img src="https://api.iconify.design/lucide:music.svg?color=%23A855F7" width="18" valign="middle" /> Choir singing & playing the piano
 
