@@ -1,4 +1,4 @@
-## <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%23A855F7" width="28" valign="middle" /> BIANCA_TEIXEIRA.exe
+## <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%23A855F7" width="28" valign="middle" /> bianca_teixeira.exe
 
 <br/>
 
